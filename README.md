@@ -7,7 +7,7 @@
 Unity是全球应用非常广泛的实时内容开发平台,为游戏、汽车、建筑工程、影视动画等广泛领域的开发者提供强大且易于上手的工具来创作、运营和变现3D、2D、VR和AR可视化。详情可查看https://unity.cn/
 
 
-目前世界上主流的AR SDK提供厂商，国外的主要是Vuforia、Metaio，国内的主要是EasyAR。Vuforia一直是开发者最青睐的AR SDK，众多的功能以及高质量的识别技术，良好的跨平台性和兼容性，兼容目前主流的PC,Android,IOS平台。使得Vuforia早已深入人心,,是学习AR应用开发的必备技能。详情可查看https://developer.vuforia.com/
+目前世界上主流的AR SDK提供厂商，国外的主要是Vuforia、Metaio，国内的主要是EasyAR。Vuforia一直是开发者最青睐的AR SDK，众多的功能以及高质量的识别技术，良好的跨平台性和兼容性，兼容目前主流的PC,Android,IOS平台。使得Vuforia早已深入人心,是学习AR应用开发的必备技能。详情可查看https://developer.vuforia.com/
 
 
 ## 2.系统简介
@@ -69,5 +69,5 @@ AR，即增强现实技术，是一种将虚拟信息叠加到现实世界，达
 导入后，直接点击Play按钮即可开始运行程序。
 ![步骤2](https://github.com/EntaiWang99/Railway-AR/blob/master/Guide_image/15.png?raw=true)
 
-###### 欢迎学习交流！
-###### Email：etwang2019@gmail.com
+##### 欢迎学习交流！
+##### Email：etwang2019@gmail.com
