@@ -70,4 +70,4 @@ AR，即增强现实技术，是一种将虚拟信息叠加到现实世界，达
 ![步骤2](https://github.com/EntaiWang99/Railway-AR/blob/master/Guide_image/15.png?raw=true)
 
 ##### 欢迎学习交流！
-##### Email：etwang2019@gmail.com
+##### Email：entaiwang@bjtu.edu.cn
